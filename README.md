@@ -1,26 +1,56 @@
-# Kevin Lucas
+<h1 align="left">Hello, I’m Kevin</h1>
 
-Hello! I'm Kevin, I'm a Systems Analysis and Development student. My main goal is to be FullStack.
+###
 
-## Connect with me
+<p align="left">I hold a degree in Systems Analysis and Development and a postgraduate qualification in Full Stack Development. Here, you can explore and contribute to my various projects.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/keviinlucs/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinlucs)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/keviin_lucs/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=dtube&logoColor=3f29ff)](https://www.dio.me/users/keviinlucssilva)
+###
 
-## Skills
+<h3 align="left">Connect with me</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)](https://docs.git-scm.com/doc)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+###
 
-## GitHub Stats
+<div align="left">
+  <a href="https://www.linkedin.com/in/keviinlucs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/keviin_lucs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:keviinlucssilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinlucs&theme=transparent&bg_color=000000&border_color=FFFFFF&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true)
+###
 
-## My Contributions
+<h3 align="left">Skills</h3>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinlucs&repo=dio-lab-open-source&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/Kevinlucs/dio-lab-open-source.git)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
+</div>
+
+###
+
+<h3 align="left">GitHub Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevinlucs&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevinlucs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="153" alt="languages graph"  />
+</div>
+
+###
